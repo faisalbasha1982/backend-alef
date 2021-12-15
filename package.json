@@ -1,0 +1,30 @@
+{
+  "name": "alef-project-assesment",
+  "version": "1.0.0",
+  "description": "assessment on kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalbasha1982/backend-alef.git"
+  },
+  "keywords": [
+    "kubernetes",
+    "backend",
+    "nodejs"
+  ],
+  "author": "Faisal Bin Basha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faisalbasha1982/backend-alef/issues"
+  },
+  "homepage": "https://github.com/faisalbasha1982/backend-alef#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "mongoose": "^6.1.2"
+  }
+}
